@@ -5,7 +5,7 @@ import { UpcomingEducations } from './components/UpcomingEducations'
 
 import { AdHocEducations } from './components/AdHocEducations'
 import { PastEducations } from './components/PastEducations'
-
+        
 function App() {
   return (
     <div className="min-h-screen bg-background-primary">
